@@ -1,7 +1,7 @@
 # ecommerce-ORM-backend [![License: Apache](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
-This
+This is a backend application designed for an e-commerce platform, and contains a database (categories, products, and tags). This application utilizes MySQL, Express, Sequelize, and Insomnia.
 
 ## Table of Contents
 * [Demo](#demo)
