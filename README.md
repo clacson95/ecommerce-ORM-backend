@@ -22,7 +22,7 @@ To use this back-end application, fork the repository, clone the repository, or 
 Next, follow the Installation instructions below.
 
 Then follow these steps:
-1. create schema
+1. create the sql schema
     * enter `mysql -u root -p` in the terminal
     * enter your password when prompted
     * enter `source db/schema.sql` in the terminal
